@@ -2,7 +2,7 @@
 
 I am updating my state at the issues.
 
-![warmup](https://github.com/guotong1988/guotong1988/blob/main/warmup.jpeg)
+运 动 前 充 分 热 身
 
 
 <!--
