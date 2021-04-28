@@ -2,6 +2,9 @@
 
 I am updating my state at the issues.
 
+![warmup](https://github.com/guotong1988/guotong1988/blob/main/warmup.jpeg)
+
+
 <!--
 **guotong1988/guotong1988** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
