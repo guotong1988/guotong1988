@@ -1,6 +1,6 @@
 ### Hi there 👋 
 
-I am updating my state on issues there.
+I am updating my state at the issues.
 
 <!--
 **guotong1988/guotong1988** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
