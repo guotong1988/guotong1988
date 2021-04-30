@@ -4,6 +4,8 @@ I am updating my state at the issues.
 
 运 动 前 充 分 热 身
 
+编 程 时 仔 细 认 真
+
 
 <!--
 **guotong1988/guotong1988** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
