@@ -6,6 +6,8 @@ I am updating my state at the issues.
 
 清 晨 计 划 一 天 事
 
+![debug](debug.png)
+
 
 <!--
 **guotong1988/guotong1988** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
