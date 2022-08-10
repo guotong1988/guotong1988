@@ -1,4 +1,4 @@
-做一个快乐的码农。
+stay low and stay locked in
 
 ———
 
