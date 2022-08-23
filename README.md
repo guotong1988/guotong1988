@@ -2,6 +2,6 @@
 
 ———
 
-Reviewer of NAACL 2022 Industry Track
+Reviewer of NAACL Industry Track
 
-PC Member of EMNLP 2022 Industry Track
+PC Member of EMNLP Industry Track
