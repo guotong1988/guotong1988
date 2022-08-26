@@ -1,5 +1,7 @@
 ### stay low and stay locked in
 
+![theDunker](https://github.com/guotong1988/guotong1988/blob/main/theDunker.jpeg)
+
 ———
 
 Reviewer of NAACL Industry Track
