@@ -1,4 +1,4 @@
-Hi! My name is Tong Guo. My nickname is CoderOnly.
+Hi! My name is Tong Guo.
 
 Reviewer of ACL/NAACL/EMNLP Industry Track.
 
