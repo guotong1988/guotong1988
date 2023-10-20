@@ -4,4 +4,4 @@ Reviewer of ACL-2023 / NAACL-2022 / EMNLP-2022/2023 Industry Track.
 
 Another email: guotong1988@pku.org.cn
 
-Never Give Up.
+Never Give Up. Learn From It.
