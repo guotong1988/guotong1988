@@ -10,4 +10,4 @@ Never Give Up. Learn From Failure.
 
 Print is the best debug method.
 
-Problem go first.
+Problem go first for research.
