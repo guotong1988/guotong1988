@@ -8,4 +8,4 @@ Never Give Up. Learn From Failure.
 
 -----
 
-Print is the best debug method.
+Print is the best debugging method.
