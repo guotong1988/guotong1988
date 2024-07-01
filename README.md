@@ -7,3 +7,5 @@ Another email: guotong1988@pku.org.cn
 Never Give Up / Learn From Failure
 
 Do not forget: Print is the best debugging method.
+
+Do not forget: The fastest way to get code online is to spend long hours testing it.
