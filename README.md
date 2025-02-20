@@ -4,8 +4,4 @@ Reviewer of ACL-2023, NAACL-2022/2024/2025, EMNLP-2022/2023/2024, COLING-2025 In
 
 ---
 
-Do Not Forget The Basic:
-
-1) Printing is the best debugging method. Re-scanning all the code is also important.
-
-2) The fastest way to get code online is to test it by batch and check the error logs.
+[Do Not Forget The Basic](https://github.com/guotong1988/guotong1988.github.io/blob/main/README.md)
