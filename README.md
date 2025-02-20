@@ -4,7 +4,7 @@ Reviewer of ACL-2023, NAACL-2022/2024/2025, EMNLP-2022/2023/2024, COLING-2025 In
 
 ---
 
-Do not forget the basic:
+Do Not Forget The Basic:
 
 1) Printing is the best debugging method. Re-scanning all the code is also important.
 
