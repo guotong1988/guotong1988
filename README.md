@@ -9,10 +9,8 @@ Conference Reviewer: ACL, NAACL, EMNLP, COLING, EACL, NeurIPS
   <picture>
     <img alt="GitHub Stats" src="https://github-readme-stats-six-seven.vercel.app/api?username=guotong1988&show_icons=true&count_private=true&theme=default" height="200px">
   </picture>
+
   <picture>
-    <img alt="Top Languages" src="https://github-readme-stats-six-seven.vercel.app/api/top-langs/?username=guotong1988&layout=compact&langs_count=8&theme=default" height="200px">
-  </picture>
-  <picture>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=s4il21&theme=transparent&ring=00bfff&fire=00bfff&currStreakLabel=00bfff" alt="GitHub Streak" height="200px"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=guotogn1988&theme=transparent&ring=00bfff&fire=00bfff&currStreakLabel=00bfff" alt="GitHub Streak" height="200px"/>
   </picture>  
 </div>
