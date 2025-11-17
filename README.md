@@ -11,6 +11,6 @@ Conference Reviewer: ACL, NAACL, EMNLP, COLING, EACL, NeurIPS
   </picture>
 
   <picture>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=guotogn1988&theme=transparent&ring=00bfff&fire=00bfff&currStreakLabel=00bfff" alt="GitHub Streak" height="200px"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=guotong1988&theme=transparent&ring=00bfff&fire=00bfff&currStreakLabel=00bfff" alt="GitHub Streak" height="200px"/>
   </picture>  
 </div>
