@@ -14,5 +14,6 @@ Conference Reviewer: ACL, NAACL, EMNLP, COLING, EACL, NeurIPS
   </picture>  
 </div>
 
-
-![Profile Views](https://komarev.com/ghpvc/?username=guotong1988&style=for-the-badge&color=00bfff&labelColor=0d1117&label=Profile+Views)
+<div align="right" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
+  ![Profile Views](https://komarev.com/ghpvc/?username=guotong1988&style=for-the-badge&color=00bfff&labelColor=0d1117&label=Profile+Views)
+</div>
