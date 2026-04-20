@@ -1,6 +1,6 @@
 Hi! My name is Tong Guo, a code lover.
 
-**Conference Reviewer, Industry Track:** ACL, NAACL, EMNLP, COLING, EACL, 
+**Conference Reviewer, Industry Track:** ACL, NAACL, EMNLP, COLING, EACL
 
 **Conference Reviewer, Workshop:** NeurIPS, IJCAI, ECAI
 
