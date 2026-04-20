@@ -2,10 +2,10 @@ Hi! My name is Tong Guo, a code lover.
 
 ## Conference Reviewer
 
-#### Industry Track
+#### Industry Track:
 ACL, NAACL, EMNLP, COLING, EACL, 
 
-#### Workshop
+#### Workshop:
 NeurIPS, IJCAI, ECAI
 
 
