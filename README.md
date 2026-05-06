@@ -1,4 +1,3 @@
-Hi! My name is Tong Guo, a code lover.
 
 **Conference Reviewer, Industry Track:** ACL, NAACL, EMNLP, COLING, EACL
 
